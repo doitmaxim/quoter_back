@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[996],{5996:(t,e,n)=>{"use strict";n.r(e),n.d(e,{default:()=>l});const s={data:function(){return{text:"Opachki"}}};const l=(0,n(1900).Z)(s,(function(){var t=this,e=t.$createElement;return(t._self._c||e)("div",{staticClass:"test"},[t._v("\n    "+t._s(t.text)+"\n")])}),[],!1,null,null,null).exports}}]);
